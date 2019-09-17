@@ -1,0 +1,65 @@
+/*
+.container-fluid{
+
+width: 780px;
+margin: 0 auto;
+font-size:16px ;
+font-family: 'source sans pro',calibri,tahoma,sans-serif;
+text-align: center;
+border-collapse: collapse;
+}
+*/
+
+
+
+
+ul{
+    text-align: left;
+}
+
+
+h4
+{ 
+    text-align: center;
+    width: 100%;
+    border:1px outset ;
+    padding: 7px;
+    margin-bottom: auto;
+    background-color: lightsteelblue;
+    color: white;
+    text-transform:uppercase;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+strong{
+    font-size:16px;
+    font-family: 'Modak', cursive;
+}
+
+
+.container{
+    border:2px solid white; 
+    width: 780;
+    margin: auto;
+    font-size: 14px;
+    padding: 30px;
+    border-radius:5px;
+    box-shadow: 2px 3px 4px white;
+    font-family: 'Exo 2', sans-serif;
+
+
+
+}
+address{
+    font-family: 'Chilanka', cursive;
+    float: right;
+    font-size: 18px;
+}
+
+p{
+    font-family: 'Chilanka', cursive;
+    font-family: 'Modak', cursive;
+
+
+}
